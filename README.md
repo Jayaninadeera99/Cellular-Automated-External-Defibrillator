@@ -82,3 +82,68 @@ Adult/Child mode
 🔌 Electrode Connectors
 
 🔋 Battery Connector
+
+📱 **Mobile Application**
+
+The CAED system integrates with a mobile app for monitoring and diagnostics:
+
+Features:
+
+✅ Operational checks
+
+📊 ECG history tracking
+
+📄 ECG report generation
+
+🔍 System diagnostics
+
+📅 Maintenance logs
+
+**Testing & Safety Features**
+
+The device includes comprehensive self-testing to ensure reliability:
+
+✔️ General system test
+
+✔️ Battery status check
+
+✔️ ECG signal verification
+
+✔️ Audio system test
+
+✔️ Therapy delivery validation
+
+✔️ Electrode and cable testing
+
+🔊 Voice guidance system provides step-by-step instructions during emergencies
+
+**Key Features**
+
+⚡ Rapid energy charging and discharge
+
+🔄 Biphasic defibrillation waveform
+
+🧠 Intelligent control system
+
+📱 App integration
+
+🔊 Real-time audio guidance
+
+.
+
+🚀 **Key Features**
+
+⚡ Rapid energy charging and discharge
+
+🔄 Biphasic defibrillation waveform
+
+🧠 Intelligent control system
+
+📱 App integration
+
+🔊 Real-time audio guidance
+
+🛡️ Built-in safety and diagnostics
+
+🛡️ Built-in safety and diagnostics
+

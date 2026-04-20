@@ -9,7 +9,7 @@ The CAED system is divided into two primary modules:
 
   Control Board (C-B) – Manages logic, user interaction, and system monitoring
 
-⚙️ High Voltage System
+⚙️ ** High Voltage System **
 
 The High Voltage Board (HV-B) is responsible for delivering defibrillation energy safely and efficiently:
 

@@ -5,6 +5,6 @@ A **cellular automated external defibrillator (AED)** that detects sudden cardia
 
 The CAED system is divided into two primary modules:
 
-High Voltage Board (HV-B) – Handles energy generation, storage, and delivery
+  High Voltage Board (HV-B) – Handles energy generation, storage, and delivery
 
-Control Board (C-B) – Manages logic, user interaction, and system monitoring
+  Control Board (C-B) – Manages logic, user interaction, and system monitoring

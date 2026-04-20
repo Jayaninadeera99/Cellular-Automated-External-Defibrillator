@@ -38,3 +38,5 @@ Fast charging
 High reliability
 
 Emergency readiness
+
+(You can customize the battery power levels and circuit design to better fit your own implementation)

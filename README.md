@@ -40,3 +40,17 @@ High reliability
 Emergency readiness
 
 (You can customize the battery power levels and circuit design to better fit your own implementation)
+
+🧠 **Control System**
+
+The Control Board (C-B) acts as the brain of the CAED:
+
+Microprocessor-based system control
+
+Manages:
+
+Charging and shock delivery
+
+Input/output operations
+
+Safety monitoring

@@ -8,3 +8,13 @@ The CAED system is divided into two primary modules:
   High Voltage Board (HV-B) – Handles energy generation, storage, and delivery
 
   Control Board (C-B) – Manages logic, user interaction, and system monitoring
+
+⚙️ High Voltage System
+
+The High Voltage Board (HV-B) is responsible for delivering defibrillation energy safely and efficiently:
+
+⚡ Charging Circuit: Self-oscillating flyback converter for rapid charging
+🔋 Energy Storage: High-performance supercapacitor with low ESR
+🔄 H-Bridge Circuit: Generates biphasic shock waveform
+🛑 Discharge Circuit: Safely removes residual charge
+🔀 Selectors: Isolate patient and route ECG signals

@@ -54,3 +54,31 @@ Charging and shock delivery
 Input/output operations
 
 Safety monitoring
+
+**Key Components**
+
+🎛️ Input/Output interfaces
+
+🔊 Audio system (voice prompts & alerts)
+
+📡 Bluetooth module (HC-05)
+
+🎵 Audio playback module (DFPlayer Mini)
+
+🎛️ **User Interface**
+
+Designed for simplicity and quick response:
+
+⚡ Power Button (ON/OFF)
+
+🚨 Shock Button
+
+🔘 Selector Buttons:
+
+Language selection
+
+Adult/Child mode
+
+🔌 Electrode Connectors
+
+🔋 Battery Connector

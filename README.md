@@ -98,8 +98,6 @@ Integrates with a companion mobile app for monitoring and diagnostics:
 - 🔊 Real-time audio guidance
 - 🛡️ Built-in safety and diagnostics
 
----
-
 ## ⚠️ Disclaimer
 
 This is a research/educational project. It is **not certified for clinical 

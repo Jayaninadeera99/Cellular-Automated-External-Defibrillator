@@ -98,11 +98,6 @@ Integrates with a companion mobile app for monitoring and diagnostics:
 - 🔊 Real-time audio guidance
 - 🛡️ Built-in safety and diagnostics
 
-## ⚠️ Disclaimer
-
-This is a research/educational project. It is **not certified for clinical 
-or commercial use** as a medical device. Do not use on humans without proper 
-regulatory approval and safety certification.
 
 ## 📄 License
 Add your chosen license here (e.g., MIT, GPL-3.0).

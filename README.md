@@ -99,5 +99,3 @@ Integrates with a companion mobile app for monitoring and diagnostics:
 - 🛡️ Built-in safety and diagnostics
 
 
-## 📄 License
-Add your chosen license here (e.g., MIT, GPL-3.0).
